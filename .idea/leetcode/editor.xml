@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[10]Regular Expression Matching.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[10]Regular Expression Matching.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com10" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[10]Regular Expression Matching.go" />
+              <option name="titleSlug" value="regular-expression-matching" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[4]Median of Two Sorted Arrays.go">
           <value>
             <LeetcodeEditor>

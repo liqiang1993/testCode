@@ -59,3 +59,33 @@ func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 		return float64(sum)
 	}
 }
+
+func isMatch(s string, p string) bool {
+	sLen := len(s)
+	indexs := 0
+	for index:=0; index<len(p); index++ {
+		if p[index] == '.' {
+			indexs++
+		} else if p[index] == '*' {
+			if index + 1 == len(p) {
+				return true
+			} else {
+				indexs = findIndex(s[indexs:], p[index+1])
+				if indexs == -1 {
+					return true
+				}
+			}
+		} else {
+			if p[index] != s[indexs] {
+				return false
+			}
+			indexs++
+		}
+
+		if indexs >= sLen {
+			break
+		}
+	}
+
+	return true
+}

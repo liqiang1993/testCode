@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[1232]Check If It Is a Straight Line.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[1232]Check If It Is a Straight Line.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1232" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[1232]Check If It Is a Straight Line.go" />
+              <option name="titleSlug" value="check-if-it-is-a-straight-line" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[14]Longest Common Prefix.go">
           <value>
             <LeetcodeEditor>
@@ -25,6 +36,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[1808]Maximize Number of Nice Divisors.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[1808]Maximize Number of Nice Divisors.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1808" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[1808]Maximize Number of Nice Divisors.go" />
+              <option name="titleSlug" value="maximize-number-of-nice-divisors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[2032]Two Out of Three.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[2032]Two Out of Three.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2032" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[2032]Two Out of Three.go" />
+              <option name="titleSlug" value="two-out-of-three" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[4]Median of Two Sorted Arrays.go">
           <value>
             <LeetcodeEditor>
@@ -33,6 +66,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[4]Median of Two Sorted Arrays.go" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[928]Minimize Malware Spread II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[928]Minimize Malware Spread II.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com928" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[928]Minimize Malware Spread II.go" />
+              <option name="titleSlug" value="minimize-malware-spread-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 03.06]Animal Shelter LCCI.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[面试题 03.06]Animal Shelter LCCI.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com面试题 03.06" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[面试题 03.06]Animal Shelter LCCI.go" />
+              <option name="titleSlug" value="animal-shelter-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>

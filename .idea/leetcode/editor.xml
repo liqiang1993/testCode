@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[1016]Binary String With Substrings Representing 1 To N.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[1016]Binary String With Substrings Representing 1 To N.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1016" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[1016]Binary String With Substrings Representing 1 To N.go" />
+              <option name="titleSlug" value="binary-string-with-substrings-representing-1-to-n" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[10]Regular Expression Matching.go">
           <value>
             <LeetcodeEditor>
@@ -58,6 +69,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[219]Contains Duplicate II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[219]Contains Duplicate II.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com219" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[219]Contains Duplicate II.go" />
+              <option name="titleSlug" value="contains-duplicate-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[236]Lowest Common Ancestor of a Binary Tree.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[236]Lowest Common Ancestor of a Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com236" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[236]Lowest Common Ancestor of a Binary Tree.go" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[4]Median of Two Sorted Arrays.go">
           <value>
             <LeetcodeEditor>
@@ -66,6 +99,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[4]Median of Two Sorted Arrays.go" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/editor/cn/[731]My Calendar II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode/editor/cn/doc/content/[731]My Calendar II.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com731" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode/editor/cn/[731]My Calendar II.go" />
+              <option name="titleSlug" value="my-calendar-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
